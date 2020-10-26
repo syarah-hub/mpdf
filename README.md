@@ -4,10 +4,10 @@ It is based on [FPDF](http://www.fpdf.org/) and [HTML2FPDF](http://html2fpdf.sou
 (see [CREDITS](CREDITS.txt)), with a number of enhancements. mPDF was written by Ian Back and is released
 under the [GNU GPL v2 licence](LICENSE.txt).
 
-[![Latest Stable Version](https://poser.pugx.org/mpdf/mpdf/v/stable)](https://packagist.org/packages/mpdf/mpdf)
-[![Build Status](https://travis-ci.org/mpdf/mpdf.svg?branch=development)](https://travis-ci.org/mpdf/mpdf)
-[![Total Downloads](https://poser.pugx.org/mpdf/mpdf/downloads)](https://packagist.org/packages/mpdf/mpdf)
-[![License](https://poser.pugx.org/mpdf/mpdf/license)](https://packagist.org/packages/mpdf/mpdf)
+[![Latest Stable Version](https://poser.pugx.org/syarah-hub/mpdf/v/stable)](https://packagist.org/packages/syarah-hub/mpdf)
+[![Build Status](https://travis-ci.org/syarah-hub/mpdf.svg?branch=development)](https://travis-ci.org/syarah-hub/mpdf)
+[![Total Downloads](https://poser.pugx.org/syarah-hub/mpdf/downloads)](https://packagist.org/packages/syarah-hub/mpdf)
+[![License](https://poser.pugx.org/syarah-hub/mpdf/license)](https://packagist.org/packages/syarah-hub/mpdf)
 
 
 > Note: If you are viewing this file on mPDF GitHub repository homepage or on Packagist, please note that
