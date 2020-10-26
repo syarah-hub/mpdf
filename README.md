@@ -45,10 +45,10 @@ Consider supporting development of mPDF with a donation of any value. [Donation 
 Installation
 ============
 
-Official installation method is via composer and its packagist package [mpdf/mpdf](https://packagist.org/packages/mpdf/mpdf).
+Official installation method is via composer and its packagist package [syarah-hub/mpdf](https://packagist.org/packages/syarah-hub/mpdf).
 
 ```
-$ composer require mpdf/mpdf
+$ composer require syarah-hub/mpdf
 ```
 
 Usage
@@ -109,7 +109,7 @@ For general questions or troubleshooting please use the [mpdf tag](https://stack
 Contributing
 ============
 
-Please read before submitting issues and pull requests the [CONTRIBUTING.md](https://github.com/mpdf/mpdf/blob/development/.github/CONTRIBUTING.md) file.
+Please read before submitting issues and pull requests the [CONTRIBUTING.md](https://github.com/syarah-hub/mpdf/blob/development/.github/CONTRIBUTING.md) file.
 
 Unit Testing
 ============
