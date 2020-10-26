@@ -1,6 +1,6 @@
 {
 
-	"name": "mpdf/mpdf",
+	"name": "syarah-hub/mpdf",
 	"type": "library",
 
 	"description": "PHP library generating PDF files from UTF-8 encoded HTML",
@@ -23,8 +23,8 @@
 
 	"support": {
 
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"issues": "https://github.com/syarah-hub/mpdf/issues",
+		"source": "https://github.com/syarah-hub/mpdf",
 		"docs": "http://mpdf.github.io"
 
 	},
@@ -92,7 +92,7 @@
 
 	"extra": {
 		"branch-alias": {
-			"dev-development": "7.x-dev"
+			"master": "dev-master"
 		}
 	}
 
