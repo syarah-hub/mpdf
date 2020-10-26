@@ -4361,6 +4361,7 @@ class Otl
 		if (isset($this->LuDataCache[$this->fontkey][$offset])) {
 			$GlyphByClass = $this->LuDataCache[$this->fontkey][$offset];
 		} else {
+			$GlyphByClass = [];
 			$this->seek($offset);
 			$ClassFormat = $this->read_ushort();
 			$GlyphClass = [];
