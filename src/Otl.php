@@ -4358,6 +4358,7 @@ class Otl
 
 	private function _getClassDefinitionTable($offset)
 	{
+		$GlyphByClass = [];
 		if (isset($this->LuDataCache[$this->fontkey][$offset])) {
 			$GlyphByClass = $this->LuDataCache[$this->fontkey][$offset];
 		} else {
